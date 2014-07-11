@@ -1,4 +1,9 @@
-Introdução à logica de programação usando R
-============================
+# Índice
 
-Repositório relacionado ao livro Introdução à lógica de programação usando R
+Este é o índice deste livro.
+
+* [section 1](section1/README.md)
+    * [example 1](section1/example1.md)
+    * [example 2](section1/example2.md)
+* [section 2](section2/README.md)
+    * [example 1](section2/example1.md)
