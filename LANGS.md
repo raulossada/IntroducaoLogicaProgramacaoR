@@ -1,1 +1,2 @@
-* [Português do Brasil](pt-br)
+* [Português do Brasil](pt-br/)
+* [English](en/)
