@@ -1,8 +1,8 @@
 Introdução à logica de programação usando R
 ============================
 
-Repositório relacionado ao livro Introdução à lógica de programação usando R.
+This repository is related to the book: Introdução à lógica de programação usando R.
 
-Este livro está licenciado através da licença: [Atribuição-NãoComercial-SemDerivações 4.0 Internacional](http://creativecommons.org/licenses/by-nc-nd/4.0/).
+This book is licensed over the [Attribution-NonCommercial-NoDerivatives 4.0 International](http://creativecommons.org/licenses/by-nc-nd/4.0/) license.
 
-PT-BR
+EN
