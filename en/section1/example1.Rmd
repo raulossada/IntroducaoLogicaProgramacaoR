@@ -8,3 +8,7 @@ opts_chunk$set(prompt=TRUE, comment='', results='markup')
 # end setup chunk
 ```
 # Section 1 - Example 1
+
+Teste: E agora? O que será que vai acontecer? Sobreescrever ou unir?
+
+Resultado: Sobreescreve, portanto, editar apenas o .Rmd
