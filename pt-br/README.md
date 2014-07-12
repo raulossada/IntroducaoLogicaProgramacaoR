@@ -1,7 +1,6 @@
 # Introdução à logica de programação usando R
 
 #### Autor: Raul Ossada
-#### Idioma: PT-BR
 
 Repositório relacionado ao livro: Introdução à lógica de programação usando R.
 
