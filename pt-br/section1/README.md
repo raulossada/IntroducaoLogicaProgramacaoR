@@ -1,4 +1,4 @@
-# section 1
+# Capítulo 1
 
 O que é **lógica de programação**?
 

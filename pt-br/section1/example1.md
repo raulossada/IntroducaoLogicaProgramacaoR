@@ -1,6 +1,11 @@
+
 # example 1
 
-```{r}
-print('lalala');
-print(2+3);
+
+```r
+> print('lalala');
+```
+
+```
+[1] "lalala"
 ```
