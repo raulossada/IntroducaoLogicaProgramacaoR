@@ -1,14 +1,16 @@
 CACHE MANIFEST
-# Revision 1405714525567
+# Revision 1407267392198
 
 CACHE:
 index.html
 aplicacoes/README.html
+aplicacoes/SepararColuna.html
+aplicacoes/verificacoes.html
 aplicacoes/readExcel.html
-section1/example2.html
 section1/README.html
-section2/README.html
+section1/versionamento.html
 section1/computador.html
+section2/README.html
 section2/example1.html
 gitbook\app.js
 gitbook\fonts\fontawesome\FontAwesome.otf

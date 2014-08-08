@@ -1,4 +1,5 @@
 
+
 ## Objetivo
 
 Quero ler/importar um arquivo do Excel (\*.xls ou \*.xlsx) para o R.
@@ -46,3 +47,19 @@ Warning: package 'gdata' is in use and will not be installed
 3    5  alvaro, 34 gogogo
 ```
 
+***
+***
+***
+
+REALMENTE SÓ FUNCIONA COM O R32 BITS E PRECISA DO RJAVA
+
+ODBC connection
+For many years this was the easiest solutions based on R code for Windows users. Nowadays it still support only 32 bit versions of R and this limit discourage the use of this package. Besides Microsoft Windows and 32-bit R, it requires the Excel ODBC driver installed.
+
+?View Code RSPLUS
+require(RODBC)
+conn = odbcConnectExcel("myfile.xlsx") # open a connection to the Excel file
+sqlTables(conn)$TABLE_NAME # show all sheets
+df = sqlFetch(conn, "Sheet1") # read a sheet
+df = sqlQuery(conn, "select * from [Sheet1 $]") # read a sheet (alternative SQL sintax)
+close(conn) # close the connection to the file
